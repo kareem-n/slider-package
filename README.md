@@ -1,4 +1,6 @@
 # slider-package
+![show](https://github.com/user-attachments/assets/71e94412-8e0e-42b3-92de-9378283139b9)
+
 ## **How to use**
 - open your main.js file
 - type it as module file
@@ -14,7 +16,8 @@ slideInit(slider) ;
 ```
 
 
-**add html**
+**add html**![Uploading Capture.PNG…]()
+
 
 ```html
 <div class="slider">
@@ -30,6 +33,8 @@ slideInit(slider) ;
   <button class="prev  disabled" disabled>prev</button>
 </div>
 ```
+
+##options
 
 
 
