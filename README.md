@@ -16,9 +16,7 @@ slideInit(slider) ;
 ```
 
 
-**add html**![Uploading Capture.PNG…]()
-
-
+**add html**
 ```html
 <div class="slider">
   <div class="slide-area">
