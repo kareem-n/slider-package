@@ -2,5 +2,11 @@ import slideInit from './slider.js' ;
 
 const slider = document.querySelector(".slider") ;
 
-slideInit(slider ,{width: 500 ,height : 200} ) ;
+
+const options ={
+    width : 500 , 
+    height : 200
+}
+
+slideInit(slider  ) ;
 

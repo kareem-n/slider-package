@@ -6,8 +6,8 @@ const slideInit = (sliderItem, options) => {
     const prev = sliderItem.querySelector(".prev");
 
     sliderItem.style = `
-    width: ${options?.width ? options.width + "px" : " auto "} ;
-    height: ${options?.height ? options.height + "px" : "auto"} ;
+    width: ${options?.width ? options.width + "px" : " 300px"} ;
+    height: ${options?.height ? options.height + "px" : "150px"} ;
   `;
 
     let currentIndex = 0;
