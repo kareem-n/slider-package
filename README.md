@@ -23,16 +23,15 @@ slideInit(slider) ;
     <div class="slide-item">
       <img src="./assets/1.jpg" alt="">
     </div>
-    <div class="slide-item">ahmed </div>
-    <div class="slide-item">nasser</div>
-    <div class="slide-item">ali</div>
+    <div class="slide-item">text 1</div>
+    <div class="slide-item">text 2</div>
+    <div class="slide-item">text 3</div>
   </div>
   <button class="next ">next</button>
   <button class="prev  disabled" disabled>prev</button>
 </div>
 ```
 
-##options
 
 
 
