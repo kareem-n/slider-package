@@ -5,6 +5,7 @@
 - open your main.js file
 - type it as module file
 ```javascript
+
 import slideInit from './slider.js' ;
 const slider = document.querySelector(".slider") ;
 slideInit(slider) ;
